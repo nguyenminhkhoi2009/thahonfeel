@@ -1,12 +1,21 @@
 <!DOCTYPE html>
-<html lang="vi">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">:
-    <title>Thả Hồn Feel</title>
+  <title>Thả Hồn Feel</title>
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="stylesheet" type="text/css" href="css/index.css">
 </head>
-<body>
-    <p>Xin lỗi bạn nhưng mà trang này vẫn còn đang được xây dựng!</p>
-</body>
+    <body>
+        <div class="container">
+            <h1>Thả Hồn Feel</h1>
+            <form id="contentForm">
+            <input type="text" id="userName" placeholder="Tên của bạn" required>
+            <textarea id="usercontent" placeholder="Bạn muốn chia sẻ gì nè?" required></textarea>
+            <button type="submit">Gửi</button>
+            </form>
+            <ul id="contentList"></ul>
+            <button onclick="nextPage()" class="next-button">Trang kế tiếp</button>
+        </div>
+    </body>
+    <script type="module" src="js/index_guinhan.js" defer></script>
 </html>
