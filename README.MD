@@ -23,7 +23,7 @@ Một ngày nọ, có một bạn trẻ tên Minh đã chia sẻ câu chuyện v
 
 **Thả Hồn Feel** không chỉ là nơi để chia sẻ, mà còn là nơi để mọi người tìm thấy sự an ủi và niềm vui. Những dòng tâm sự của người này có thể là liều thuốc chữa lành cho người khác, và những nụ cười lan tỏa từ câu chuyện này có thể xoa dịu nỗi buồn của ai đó.
 
-Khôi nhìn thấy những điều kỳ diệu đang xảy ra trong cộng đồng mà cô tạo ra. anh biết rằng, **Thả Hồn Feel** không chỉ là một trang web, mà là một nơi chứa đựng những trái tim biết yêu thương và sẻ chia. Và anh tin rằng, chỉ cần mọi người cùng nhau thả hồn vào những cảm xúc chân thật nhất, thế giới này sẽ trở nên ấm áp hơn bao giờ hết.
+Khôi nhìn thấy những điều kỳ diệu đang xảy ra trong cộng đồng mà anh tạo ra. anh biết rằng, **Thả Hồn Feel** không chỉ là một trang web, mà là một nơi chứa đựng những trái tim biết yêu thương và sẻ chia. Và anh tin rằng, chỉ cần mọi người cùng nhau thả hồn vào những cảm xúc chân thật nhất, thế giới này sẽ trở nên ấm áp hơn bao giờ hết.
 
 Vậy còn bạn, bạn đã sẵn sàng thả hồn cùng **Thả Hồn Feel** chưa? Hãy đến và trải nghiệm những cảm xúc chân thật nhất, để cùng nhau tạo nên một cộng đồng đầy yêu thương và sẻ chia! 🌟
 
